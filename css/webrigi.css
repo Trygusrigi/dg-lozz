@@ -1,10 +1,4 @@
-/*
 
-TemplateMo 554 Ocean Vibes
-
-https://templatemo.com/tm-554-ocean-vibes
-
-*/
 
 html { overflow-x: hidden; }
 
@@ -660,4 +654,9 @@ address {
     .tm-tagline {
         margin-left: 30px;
     }
+}
+
+.tm-image-container{
+	display: flex;
+	justify-content: center;
 }
